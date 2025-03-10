@@ -1,2 +1,2 @@
 # Synchrtorton-NN
-Neural network to anyalyse synchrotron radatiation in tokamak plasma iamages.
+Neural network to anyalyse synchrotron radatiation in tokamak plasma images.
